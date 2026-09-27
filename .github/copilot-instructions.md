@@ -1,0 +1,3 @@
+- This project is a lightweight, dependency-free browser app using HTML, CSS, and vanilla JavaScript.
+- Keep authentication clearly labeled as local/demo only; never imply credentials are securely stored.
+- Preserve responsive design and persist user-specific plans in localStorage.
